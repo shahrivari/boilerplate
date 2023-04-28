@@ -1,4 +1,4 @@
-package com.github.boilerplate.config
+package com.github.boilerplate.base.config
 
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.databind.ObjectMapper

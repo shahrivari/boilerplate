@@ -1,4 +1,4 @@
-package com.github.boilerplate.util
+package com.github.boilerplate.base.util
 
 import org.springframework.context.ApplicationContext
 import org.springframework.context.ApplicationContextAware
